@@ -1,6 +1,6 @@
 # Github Finder Application
 
-### Fetch github repos by entering github username to using github api
+### Fetch github repos by entering github username using github api
 
 ### Code Example
 
